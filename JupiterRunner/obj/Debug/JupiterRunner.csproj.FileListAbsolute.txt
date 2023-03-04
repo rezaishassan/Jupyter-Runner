@@ -1,0 +1,9 @@
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\bin\Debug\JupiterRunner.exe
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\bin\Debug\JupiterRunner.pdb
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.csprojResolveAssemblyReference.cache
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.FrmMain.resources
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.Properties.Resources.resources
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.csproj.GenerateResource.Cache
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.csproj.CoreCompileInputs.cache
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.exe
+H:\Projects\FriendsProjects\Freelance\JupiterRunner\JupiterRunner\JupiterRunner\obj\Debug\JupiterRunner.pdb
